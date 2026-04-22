@@ -10,7 +10,7 @@ Data Analyst with 3+ years of experience in healthcare analytics, relational dat
 
 - 🎓 Master's in Computer Science from **University of Missouri–Kansas City**
 - 💼 Data Analyst @ **Blue Cross Blue Shield**
-- 🚀 Portfolio Website: [gopupooja.github.io](https://gopupooja.github.io)
+- 🚀 Portfolio Website: [gopupooja.github.io](https://gopupooja.github.io/gopupooja/)
 - ⚡ Fun fact: I believe every dataset has a story — you just need the right query to find it 📊
 
 ---
